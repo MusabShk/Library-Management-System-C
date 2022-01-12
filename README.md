@@ -29,5 +29,6 @@ iv) changePassword() : the administrator can also change the password. When the 
 ![3](https://drive.google.com/file/d/1l36Nf3OyEJzQXKSjOgnyC-jzsQlVuWwZ/view?usp=sharing)
 ![4](https://drive.google.com/file/d/1FbBlPQVSzMQ1_8-CaeiWwlyQlHBam7jL/view?usp=sharing)
 ![5](https://drive.google.com/file/d/1On-kL9u4JClXOC0i9rZPU8CRtxXNGyat/view?usp=sharing)
-![image](https://drive.google.com/uc?export=view&id=1uUeEp6q-MaIEnOAU4mYvlodcYWsw6--f)
+![image](https://drive.google.com/uc?export=view&id=1doZPxMPrpUH1Smcm0wc8VX8rNHc_sELW)
+
 
