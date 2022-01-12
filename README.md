@@ -24,11 +24,10 @@ iv) changePassword() : the administrator can also change the password. When the 
 
 3] Exit : this option will take the user out of the program i.e., the program gets terminated.
 
-![1](https://drive.google.com/file/d/1uUeEp6q-MaIEnOAU4mYvlodcYWsw6--f/view?usp=sharing)
-![2](https://drive.google.com/file/d/1ebQeaDAHxZXKq2JbiUvB_IyF8fzLjsE-/view?usp=sharing)
-![3](https://drive.google.com/file/d/1l36Nf3OyEJzQXKSjOgnyC-jzsQlVuWwZ/view?usp=sharing)
-![4](https://drive.google.com/file/d/1FbBlPQVSzMQ1_8-CaeiWwlyQlHBam7jL/view?usp=sharing)
-![5](https://drive.google.com/file/d/1On-kL9u4JClXOC0i9rZPU8CRtxXNGyat/view?usp=sharing)
 ![image](https://drive.google.com/uc?export=view&id=1doZPxMPrpUH1Smcm0wc8VX8rNHc_sELW)
+![image](https://drive.google.com/uc?export=view&id=1AEujbKKIKXANE4Zeu0du-2AO6M9oNErR)
+![image](https://drive.google.com/uc?export=view&id=1LoGrpLCw0joGCrcB7XElRTGjwliL0JVc)
+![image](https://drive.google.com/uc?export=view&id=1jWYDMep-CAIK6qRFv5gsS_YS1XqO3LcS)
+![image](https://drive.google.com/uc?export=view&id=1dIKAokPIpybBmQJMK4pqa51jfIJxGMyV)
 
 
