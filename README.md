@@ -24,9 +24,9 @@ iv) changePassword() : the administrator can also change the password. When the 
 
 3] Exit : this option will take the user out of the program i.e., the program gets terminated.
 
-![1](https://user-images.githubusercontent.com/81874178/149164325-0036ff67-524e-4d4e-b614-9437acba25e0.png)
-![2](https://user-images.githubusercontent.com/81874178/149164333-351cdc4e-44ac-4fbf-8a28-8cfae273a1f5.png)
-![3](https://user-images.githubusercontent.com/81874178/149164336-f3ce9db2-2474-4b5d-841a-e6b925b051be.png)
-![4](https://user-images.githubusercontent.com/81874178/149164340-2c2a8078-190a-43b6-bc0d-c7255b3983aa.png)
-![5](https://user-images.githubusercontent.com/81874178/149164343-b2ef1422-e0d0-4c50-ab66-94ec98433e82.png)
+![1](https://drive.google.com/file/d/1uUeEp6q-MaIEnOAU4mYvlodcYWsw6--f/view?usp=sharing)
+![2](https://drive.google.com/file/d/1ebQeaDAHxZXKq2JbiUvB_IyF8fzLjsE-/view?usp=sharing)
+![3](https://drive.google.com/file/d/1l36Nf3OyEJzQXKSjOgnyC-jzsQlVuWwZ/view?usp=sharing)
+![4](https://drive.google.com/file/d/1FbBlPQVSzMQ1_8-CaeiWwlyQlHBam7jL/view?usp=sharing)
+![5](https://drive.google.com/file/d/1On-kL9u4JClXOC0i9rZPU8CRtxXNGyat/view?usp=sharing)
 
