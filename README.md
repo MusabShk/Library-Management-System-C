@@ -24,8 +24,17 @@ iv) changePassword() : the administrator can also change the password. When the 
 
 3] Exit : this option will take the user out of the program i.e., the program gets terminated.
 
+### Login Dashboard
 ![image](https://drive.google.com/uc?export=view&id=1doZPxMPrpUH1Smcm0wc8VX8rNHc_sELW)
+
+### Check for Password
 ![image](https://drive.google.com/uc?export=view&id=1AEujbKKIKXANE4Zeu0du-2AO6M9oNErR)
+
+### Main Dashboard
 ![image](https://drive.google.com/uc?export=view&id=1LoGrpLCw0joGCrcB7XElRTGjwliL0JVc)
+
+### Creating a record before borrowing a book
 ![image](https://drive.google.com/uc?export=view&id=1jWYDMep-CAIK6qRFv5gsS_YS1XqO3LcS)
+
+### Record of books issued
 ![image](https://drive.google.com/uc?export=view&id=1dIKAokPIpybBmQJMK4pqa51jfIJxGMyV)
