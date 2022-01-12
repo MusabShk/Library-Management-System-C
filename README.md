@@ -28,13 +28,13 @@ iv) changePassword() : the administrator can also change the password. When the 
 ![image](program-screenshots/1.png)
 
 ### Check for Password
-![image](https://drive.google.com/uc?export=view&id=1AEujbKKIKXANE4Zeu0du-2AO6M9oNErR)
+![image](program-screenshots/2.png)
 
 ### Main Dashboard
-![image](https://drive.google.com/uc?export=view&id=1LoGrpLCw0joGCrcB7XElRTGjwliL0JVc)
+![image](program-screenshots/3.png)
 
 ### Creating a record before borrowing a book
-![image](https://drive.google.com/uc?export=view&id=1jWYDMep-CAIK6qRFv5gsS_YS1XqO3LcS)
+![image](program-screenshots/4.png)
 
 ### Record of books issued
-![image](https://drive.google.com/uc?export=view&id=1dIKAokPIpybBmQJMK4pqa51jfIJxGMyV)
+![image](program-screenshots/5.png)
